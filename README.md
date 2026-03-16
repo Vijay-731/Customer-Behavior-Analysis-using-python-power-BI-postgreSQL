@@ -46,7 +46,7 @@ Visualizations include:
 
 This dashboard highlights key insights including customer segmentation, revenue distribution, subscription adoption, and buying patterns.
 
-![Customer Behavior Dashboard](dashboard/images/dashboard_overview.png)
+![Customer Behavior Dashboard](dashboard/dashboard_overview.png)
 
 
 ---
